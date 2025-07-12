@@ -40,7 +40,7 @@ A simple and fun Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScrip
 
 ## 📂 GitHub Repository
 
-🔗 
+🔗 https://github.com/ChadubulaVani/Tic-Tac-Toe.git
 
 ## Author
 Chadubula Vani
